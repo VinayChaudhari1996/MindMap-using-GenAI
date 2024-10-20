@@ -1,7 +1,9 @@
 ![image](https://github.com/VinayChaudhari1996/MindMap-using-GenAI/assets/42869040/fa548c21-186a-489b-9c7c-8bd890583a19)
 
 # AI-Powered Markmap Visualization App
+![image](https://github.com/user-attachments/assets/ec2ed024-af43-4ebe-8501-1f772203412a)
 
+Demo : https://mindmapgenrator.streamlit.app/
 ## Overview
 This Streamlit application generates detailed, hierarchical mind maps using Google's Generative AI (Gemini Pro) and visualizes them using Markmap. The app takes a topic as input and creates an interactive, expandable mind map with rich markdown formatting.
 
